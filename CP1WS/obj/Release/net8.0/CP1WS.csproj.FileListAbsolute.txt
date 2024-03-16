@@ -1,0 +1,5 @@
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Release\net8.0\CP1WS.csproj.AssemblyReference.cache
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Release\net8.0\CP1WS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Release\net8.0\CP1WS.AssemblyInfoInputs.cache
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Release\net8.0\CP1WS.AssemblyInfo.cs
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Release\net8.0\CP1WS.csproj.CoreCompileInputs.cache

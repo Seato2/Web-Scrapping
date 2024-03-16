@@ -1,0 +1,17 @@
+C:\Users\sean\source\repos\CP1WS\CP1WS\bin\Debug\net8.0\CP1WS.exe
+C:\Users\sean\source\repos\CP1WS\CP1WS\bin\Debug\net8.0\CP1WS.deps.json
+C:\Users\sean\source\repos\CP1WS\CP1WS\bin\Debug\net8.0\CP1WS.runtimeconfig.json
+C:\Users\sean\source\repos\CP1WS\CP1WS\bin\Debug\net8.0\CP1WS.dll
+C:\Users\sean\source\repos\CP1WS\CP1WS\bin\Debug\net8.0\CP1WS.pdb
+C:\Users\sean\source\repos\CP1WS\CP1WS\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Debug\net8.0\CP1WS.csproj.AssemblyReference.cache
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Debug\net8.0\CP1WS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Debug\net8.0\CP1WS.AssemblyInfoInputs.cache
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Debug\net8.0\CP1WS.AssemblyInfo.cs
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Debug\net8.0\CP1WS.csproj.CoreCompileInputs.cache
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Debug\net8.0\CP1WS.csproj.Up2Date
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Debug\net8.0\CP1WS.dll
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Debug\net8.0\refint\CP1WS.dll
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Debug\net8.0\CP1WS.pdb
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Debug\net8.0\CP1WS.genruntimeconfig.cache
+C:\Users\sean\source\repos\CP1WS\CP1WS\obj\Debug\net8.0\ref\CP1WS.dll

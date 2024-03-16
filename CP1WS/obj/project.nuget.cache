@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IEabmbagoBxH0YWnBJAjKw8bFIq8qXYInydNJdZX8zMyc+QmdNn8dMCp+8u2ImlYf1jOuIsarUFv5ppejxrixg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sean\\source\\repos\\CP1WS\\CP1WS\\CP1WS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sean\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512"
+  ],
+  "logs": []
+}
